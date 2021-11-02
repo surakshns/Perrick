@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/Perrick/static/css/main.9b24c77d.chunk.css",
-    "main.js": "/Perrick/static/js/main.c306a237.chunk.js",
-    "main.js.map": "/Perrick/static/js/main.c306a237.chunk.js.map",
-    "runtime-main.js": "/Perrick/static/js/runtime-main.4860a563.js",
-    "runtime-main.js.map": "/Perrick/static/js/runtime-main.4860a563.js.map",
-    "static/js/2.a11a75b1.chunk.js": "/Perrick/static/js/2.a11a75b1.chunk.js",
-    "static/js/2.a11a75b1.chunk.js.map": "/Perrick/static/js/2.a11a75b1.chunk.js.map",
-    "static/js/3.19389b76.chunk.js": "/Perrick/static/js/3.19389b76.chunk.js",
-    "static/js/3.19389b76.chunk.js.map": "/Perrick/static/js/3.19389b76.chunk.js.map",
+    "main.css": "/Perrick/static/css/main.10a1eb69.chunk.css",
+    "main.js": "/Perrick/static/js/main.63137aa2.chunk.js",
+    "main.js.map": "/Perrick/static/js/main.63137aa2.chunk.js.map",
+    "runtime-main.js": "/Perrick/static/js/runtime-main.a38dce5d.js",
+    "runtime-main.js.map": "/Perrick/static/js/runtime-main.a38dce5d.js.map",
+    "static/js/2.c30be13e.chunk.js": "/Perrick/static/js/2.c30be13e.chunk.js",
+    "static/js/2.c30be13e.chunk.js.map": "/Perrick/static/js/2.c30be13e.chunk.js.map",
+    "static/js/3.41334686.chunk.js": "/Perrick/static/js/3.41334686.chunk.js",
+    "static/js/3.41334686.chunk.js.map": "/Perrick/static/js/3.41334686.chunk.js.map",
     "index.html": "/Perrick/index.html",
-    "static/css/main.9b24c77d.chunk.css.map": "/Perrick/static/css/main.9b24c77d.chunk.css.map",
-    "static/js/2.a11a75b1.chunk.js.LICENSE.txt": "/Perrick/static/js/2.a11a75b1.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Perrick/static/media/phone_wallpaper_cop.49181881.png"
+    "static/css/main.10a1eb69.chunk.css.map": "/Perrick/static/css/main.10a1eb69.chunk.css.map",
+    "static/js/2.c30be13e.chunk.js.LICENSE.txt": "/Perrick/static/js/2.c30be13e.chunk.js.LICENSE.txt",
+    "static/media/PERRICK.png": "/Perrick/static/media/PERRICK.57fd3cb6.png",
+    "static/media/index.css": "/Perrick/static/media/phone_wallpaper_copy@4x.35f4192a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4860a563.js",
-    "static/js/2.a11a75b1.chunk.js",
-    "static/css/main.9b24c77d.chunk.css",
-    "static/js/main.c306a237.chunk.js"
+    "static/js/runtime-main.a38dce5d.js",
+    "static/js/2.c30be13e.chunk.js",
+    "static/css/main.10a1eb69.chunk.css",
+    "static/js/main.63137aa2.chunk.js"
   ]
 }
