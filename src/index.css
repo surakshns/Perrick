@@ -19,9 +19,9 @@ body{
 .phone-wallpaper-copy {
   position: fixed;
   width: 100%;
-  height: 70vh;
+  height: 60vh;
   overflow: visible;
-  background-image: url(./assets/phone_wallpaper_cop.png);
+  background-image: url(./assets/phone_wallpaper_copy@4x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;

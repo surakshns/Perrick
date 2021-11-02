@@ -1,11 +1,12 @@
 import Banner from "./component/Banner";
-import HeadingTicker from "./component/HeadingTicker";
 
 function App() {
   return (
       <div>
         <Banner />
-        <HeadingTicker />
+        <div style={{alignItems:'center',display:'flex',justifyContent:'center'}}>
+          <p style={{color:'white',fontSize:'12px',position:'fixed',bottom:'10px'}}>Website Developed by&nbsp;<a href="https://surakshns.github.io/surakshns/#/" style={{color:'white'}}>suraksh.in</a></p>
+        </div>
       </div>
   );
 }
