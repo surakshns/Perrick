@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.4977bbcb.chunk.css",
-    "main.js": "/static/js/main.63137aa2.chunk.js",
-    "main.js.map": "/static/js/main.63137aa2.chunk.js.map",
+    "main.css": "/static/css/main.b3387e07.chunk.css",
+    "main.js": "/static/js/main.7f339692.chunk.js",
+    "main.js.map": "/static/js/main.7f339692.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5c35aac3.js",
     "runtime-main.js.map": "/static/js/runtime-main.5c35aac3.js.map",
     "static/js/2.c30be13e.chunk.js": "/static/js/2.c30be13e.chunk.js",
@@ -10,15 +10,14 @@
     "static/js/3.41334686.chunk.js": "/static/js/3.41334686.chunk.js",
     "static/js/3.41334686.chunk.js.map": "/static/js/3.41334686.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.4977bbcb.chunk.css.map": "/static/css/main.4977bbcb.chunk.css.map",
+    "static/css/main.b3387e07.chunk.css.map": "/static/css/main.b3387e07.chunk.css.map",
     "static/js/2.c30be13e.chunk.js.LICENSE.txt": "/static/js/2.c30be13e.chunk.js.LICENSE.txt",
-    "static/media/PERRICK.png": "/static/media/PERRICK.57fd3cb6.png",
-    "static/media/index.css": "/static/media/phone_wallpaper_copy@4x.35f4192a.png"
+    "static/media/phone_wallpaper_copy@4x.png": "/static/media/phone_wallpaper_copy@4x.35f4192a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5c35aac3.js",
     "static/js/2.c30be13e.chunk.js",
-    "static/css/main.4977bbcb.chunk.css",
-    "static/js/main.63137aa2.chunk.js"
+    "static/css/main.b3387e07.chunk.css",
+    "static/js/main.7f339692.chunk.js"
   ]
 }
